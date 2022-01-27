@@ -1,1 +1,3 @@
-# equation-discovery
+## Physics-informed refinement learning for equation discovery 
+
+Forthcoming...
